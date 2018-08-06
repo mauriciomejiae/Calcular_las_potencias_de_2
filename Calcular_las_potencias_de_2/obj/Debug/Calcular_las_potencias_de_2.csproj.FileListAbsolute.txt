@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\Calcular_las_potencias_de_2\Calcular_las_potencias_de_2\bin\Debug\Calcular_las_potencias_de_2.exe.config
+C:\Users\Mauricio M\Downloads\Calcular_las_potencias_de_2\Calcular_las_potencias_de_2\bin\Debug\Calcular_las_potencias_de_2.exe
+C:\Users\Mauricio M\Downloads\Calcular_las_potencias_de_2\Calcular_las_potencias_de_2\bin\Debug\Calcular_las_potencias_de_2.pdb
+C:\Users\Mauricio M\Downloads\Calcular_las_potencias_de_2\Calcular_las_potencias_de_2\obj\Debug\Calcular_las_potencias_de_2.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Calcular_las_potencias_de_2\Calcular_las_potencias_de_2\obj\Debug\Calcular_las_potencias_de_2.exe
+C:\Users\Mauricio M\Downloads\Calcular_las_potencias_de_2\Calcular_las_potencias_de_2\obj\Debug\Calcular_las_potencias_de_2.pdb
